@@ -9,7 +9,7 @@ Halo Pak Ija dan teman-teman! Selamat datang di repositori **perpusf1**. Ini ada
 * **📂 kalau teman teman mau clone project Ini:** [github.com/nevanda12/perpusf1](https://github.com/Nevanda12/perpusf1)
 
 ---
-Jujur Pak, aplikasi perpustakaan ini dibuat bukan cuma buat pajangan data kaku yang membosankan. Saya tipe orang yang paling anti lihat website kelihatan flat. Makanya, setiap sudut di sistem ini saya sentuh dengan detail interaktif, terutama di bagian dashboard utamanya:
+Jujur Pak, aplikasi perpustakaan ini dibuat bukan cuma buat pajangan data kaku yang membosankan. Saya tipe orang yang paling anti lihat website kelihatan datar. Makanya, setiap sudut di sistem ini saya sentuh dengan detail interaktif, terutama di bagian dashboard utamanya:
 
 * **✨ Animasi yang Memanjakan Mata:** Ini sudah jadi SOP wajib di setiap proyek buatan Nevanda Pak. Mulai dari halaman login sampai menu di dalamnya dibikin sehalus mungkin biar estetik, manjain mata, tapi tetep kelihatan profesional.
 * **🎮 Kuis Seru-seruan:** Biar pengunjung perpus nggak spaneng atau bosan, ada fitur kuis interaktif buat hiburan ringan.
@@ -28,13 +28,13 @@ Jujur Pak, aplikasi perpustakaan ini dibuat bukan cuma buat pajangan data kaku y
 ![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232149.png)
 
 
-## ❓ Kenapa Websitenya Nggak Bisa Langsung Dipakai, Pak?
+## ❓ Kenapa Websitenya Nggak Bisa Langsung Dipakai Pak?
 
-Saya mau jujur dari lubuk hati yang paling dalam: **karena saya belum agak malas buat sewa hosting database sendiri Pak. Hehehe, ujung-ujungnya duit lagi, duit lagi, dompet mahasiswa menangis.** 😭
+Saya mau jujur dari lubuk hati yang paling dalam: **karena saya agak malas buat sewa hosting database sendiri Pak. ujungnya duit lagi duit lagi, jadi maaf pak saya lebih tertarik beli nasi padang daripada sewa hosting.** 
 
 Jadi begini Pak Ija, aplikasi ini kan dibangun pakai PHP (CodeIgniter 3) dan database MySQL yang butuh server hidup. Sementara GitHub Pages ini modal numpang gratisan untuk halaman statis HTML,CSS,JS aja. Makanya, halaman yang lagi Bapak buka sekarang ini cuma bisa jadi pameran visual alias pajangan saja.
 
-Tapi tenang, kalau Pak Ija atau temen temen penasaran banget pengen coba fiturnya secara utuh, kodenya open source kok. langsung clone bae, terus running lokal di laptop masing-masing pake XAMPP. Dijamin lancar jaya!
+Tapi tenang, kalau Pak Ija atau temen temen penasaran banget pengen coba fiturnya, kodenya open source tuh. langsung clone bae, terus running lokal di laptop masing-masing pake XAMPP. Dijamin lancar jaya!
 
 ---
 
