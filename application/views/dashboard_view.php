@@ -473,7 +473,7 @@
     pertanyaan: "Rak buku di perpustakaan biasanya disusun berdasarkan...?",
     opsi: ["A. Warna sampul saja", "B. Sistem klasifikasi tertentu", "C. Tinggi badan peminjam", "D. Tahun lahir penulis"],
     jawabanBenar: 1
-  }
+  }5
   ];
 
   let indeksSoal = 0;

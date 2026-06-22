@@ -1,36 +1,44 @@
-## Deskripsi Aplikasi
-Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
-## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
-### Source Blog :  <a href="https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html" target="_blank">
-https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html</a>
+# perpusN — Sistem Informasi Perpustakaan
 
-### Beli versi terbaru nya di link berikut :  <a href="https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html" target="_blank">https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html</a>
+Halo! Selamat datang di repositori **perpusN**, sebuah Sistem Informasi Perpustakaan berbasis web yang dikembangkan dan didokumentasikan oleh Nevanda.
 
-### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
+---
 
-##  Framework
-* Codeigniter 3.1.11
-* Template Admin LTE  Versi 2.4
+## 🔗 Tautan Terkait
+* **🌐 Website Portofolio Nevanda:** [Kunjungi Portofolio Nevanda](https://nevanda12.github.io/porto-mobile/)
+* **📂 Repositori GitHub Proyek:** [github.com/nevanda12/perpusN](https://github.com/Nevanda12/perpusN)
 
-## Penggunaan Login Akses
+---
 
-<b>Petugas Perpus : </b>
-<br/>
-Username : anang
-<br/>
-Password : 123
+## 🖥️ Tampilan Dashboard & Fitur
 
-<b>Anggota Perpus :</b>
-<br/>
-Username : fauzan
-<br/>
-Password : 123
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232004)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232045)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232058)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232114)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232135)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232149)
 
-** Jika ada issues atau revisi atau menambahkan fitur silahkan pull request di repository ini
+Aplikasi perpustakaan ini tidak hanya sekadar tempat mencatat buku. Pada bagian dashboard utama, sistemnya sudah dihiasi dan dilengkapi dengan berbagai fitur fungsional serta interaktif, antara lain:
 
-## Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
+* **✨ Animasi Interaktif:** Transisi halus pada halaman login dan UI untuk pengalaman yang tidak membosankan, karena animasi pada website adalah SOP wajib di project Nevanda.
+* **🎮 Permainan Kuis:** Fitur interaktif untuk menyegarkan suasana perpustakaan.
+* **👥 Data Pengguna:** Manajemen data anggota perpustakaan dan petugas.
+* **📚 Data Buku:** Katalogisasi dan pemantauan ketersediaan stok buku.
+* **🔄 Peminjaman & Pengembalian:** Pencatatan sirkulasi keluar-masuk buku.
+* **💰 Kalkulasi Denda:** Penghitungan otomatis untuk keterlambatan pengembalian buku.
+* Serta berbagai fitur penunjang operasional perpustakaan lainnya.
 
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
+---
 
-Gunakan Aplikasi dengan bijak, dan selamat belajar
+## ❓ Kenapa Web Ini Tidak Bisa Langsung Dipakai?
+
+Jawabannya sangat jujur: **karena Nevanda malas menyewa hosting database, karena itu memerlukan uang.** 
+
+Aplikasi ini dibangun menggunakan PHP (CodeIgniter 3) dan database MySQL. Karena GitHub Pages hanya bisa menjalankan halaman statis (HTML/CSS/JS), maka halaman web yang sedang bapak Ija buka ini hanyalah sekadar pajangan. 
+
+Kalau Pak Ija ingin mencoba menjalankan aplikasi ini secara utuh beserta seluruh fiturnya, silakan *clone* atau unduh *source code* repositori ini, lalu jalankan secara lokal di komputer Bapak menggunakan **XAMPP**.
+
+---
+
+*Catatan Kredit: Source code dasar dikembangkan oleh Nevanda.*
