@@ -33,7 +33,7 @@ Aplikasi perpustakaan ini tidak hanya sekadar tempat mencatat buku. Pada bagian 
 
 ## ❓ Kenapa Web Ini Tidak Bisa Langsung Dipakai?
 
-Jawabannya sangat jujur: **karena Nevanda malas menyewa hosting database, karena itu memerlukan uang.** 
+Jawabannya sangat jujur: **karena saya malas menyewa hosting database, karena itu memerlukan uang, hadeeh duit lagi duit lagi.** 
 
 Aplikasi ini dibangun menggunakan PHP (CodeIgniter 3) dan database MySQL. Karena GitHub Pages hanya bisa menjalankan halaman statis (HTML/CSS/JS), maka halaman web yang sedang Bapak Ija buka ini hanyalah sekadar pajangan. 
 
