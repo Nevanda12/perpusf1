@@ -12,12 +12,12 @@ Halo! Selamat datang di repositori **perpusf1**, sebuah Sistem Informasi Perpust
 
 ## 🖥️ Tampilan Dashboard & Fitur
 
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232004)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232045)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232058)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232114)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232135)
-![Tampilan Dashboard perpusN](assets_style/image/Screenshot 2026-06-22 232149)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232004.png)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232045.png)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232058.png)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232114.png)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232135.png)
+![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232149.png)
 
 Aplikasi perpustakaan ini tidak hanya sekadar tempat mencatat buku. Pada bagian dashboard utama, sistemnya sudah dihiasi dan dilengkapi dengan berbagai fitur fungsional serta interaktif, antara lain:
 
