@@ -1,12 +1,12 @@
 # perpusN — Sistem Informasi Perpustakaan
 
-Halo! Selamat datang di repositori **perpusN**, sebuah Sistem Informasi Perpustakaan berbasis web yang dikembangkan dan didokumentasikan oleh Nevanda.
+Halo! Selamat datang di repositori **perpusf1**, sebuah Sistem Informasi Perpustakaan berbasis web yang dikembangkan dan didokumentasikan oleh Nevanda.
 
 ---
 
 ## 🔗 Tautan Terkait
 * **🌐 Website Portofolio Nevanda:** [Kunjungi Portofolio Nevanda](https://nevanda12.github.io/porto-mobile/)
-* **📂 Repositori GitHub Proyek:** [github.com/nevanda12/perpusN](https://github.com/Nevanda12/perpusN)
+* **📂 Repositori GitHub Proyek:** [github.com/nevanda12/perpusN](https://github.com/Nevanda12/perpusf1)
 
 ---
 
@@ -35,7 +35,7 @@ Aplikasi perpustakaan ini tidak hanya sekadar tempat mencatat buku. Pada bagian 
 
 Jawabannya sangat jujur: **karena Nevanda malas menyewa hosting database, karena itu memerlukan uang.** 
 
-Aplikasi ini dibangun menggunakan PHP (CodeIgniter 3) dan database MySQL. Karena GitHub Pages hanya bisa menjalankan halaman statis (HTML/CSS/JS), maka halaman web yang sedang bapak Ija buka ini hanyalah sekadar pajangan. 
+Aplikasi ini dibangun menggunakan PHP (CodeIgniter 3) dan database MySQL. Karena GitHub Pages hanya bisa menjalankan halaman statis (HTML/CSS/JS), maka halaman web yang sedang Bapak Ija buka ini hanyalah sekadar pajangan. 
 
 Kalau Pak Ija ingin mencoba menjalankan aplikasi ini secara utuh beserta seluruh fiturnya, silakan *clone* atau unduh *source code* repositori ini, lalu jalankan secara lokal di komputer Bapak menggunakan **XAMPP**.
 
