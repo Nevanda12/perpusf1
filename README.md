@@ -1,16 +1,24 @@
 # perpusf1 — Sistem Informasi Perpustakaan
 
-Halo! Selamat datang di repositori **perpusf1**, sebuah Sistem Informasi Perpustakaan berbasis web yang dikembangkan dan didokumentasikan oleh Nevanda.
+Halo Pak Ija dan teman-teman! Selamat datang di repositori **perpusf1**. Ini adalah proyek Sistem Informasi Perpustakaan berbasis web yang saya garap dan dokumentasikan dengan sepenuh hati.
 
 ---
 
-## 🔗 Tautan Terkait
-* **🌐 Website Portofolio Nevanda:** [Kunjungi Portofolio Nevanda](https://nevanda12.github.io/porto-mobile/)
-* **📂 Repositori GitHub Proyek:** [github.com/nevanda12/perpusf1](https://github.com/Nevanda12/perpusf1)
+## 🔗 Link Penting
+* **🌐 Nyasar ke Portofolio Saya?** Boleh mampir ke sini dulu, Pak: [Kunjungi Portofolio Nevanda](https://nevanda12.github.io/porto-mobile/)
+* **📂 kalau teman teman mau clone project Ini:** [github.com/nevanda12/perpusf1](https://github.com/Nevanda12/perpusf1)
 
 ---
+Jujur Pak, aplikasi perpustakaan ini dibuat bukan cuma buat pajangan data kaku yang membosankan. Saya tipe orang yang paling anti lihat website kelihatan flat. Makanya, setiap sudut di sistem ini saya sentuh dengan detail interaktif, terutama di bagian dashboard utamanya:
 
-## 🖥️ Tampilan Dashboard & Fitur
+* **✨ Animasi yang Memanjakan Mata:** Ini sudah jadi SOP wajib di setiap proyek buatan Nevanda Pak. Mulai dari halaman login sampai menu di dalamnya dibikin sehalus mungkin biar estetik, manjain mata, tapi tetep kelihatan profesional.
+* **🎮 Kuis Seru-seruan:** Biar pengunjung perpus nggak spaneng atau bosan, ada fitur kuis interaktif buat hiburan ringan.
+* **👥 Kelola Data Pengguna:** Urusan manajemen akun petugas sama anggota perpus, semuanya sudah terstruktur rapi.
+* **📚 Stok Buku:** Katalogisasi data buku biar pemantauan ketersediaan stoknya nggak ada yang selip.
+* **🔄 Sirkulasi Pinjam-Kembali:** Pencatatan otomatis buat sirkulasi keluar-masuk buku biar ketahuan siapa yang belum balikin.
+* **💰 Hitung Denda Otomatis:** Kalau ada yang telat balikin buku, sistem bakal langsung ngitung dendanya secara akurat.
+
+## 🖥️ Intip dikit tampilannya lah
 
 ![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232004.png)
 ![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232045.png)
@@ -19,26 +27,15 @@ Halo! Selamat datang di repositori **perpusf1**, sebuah Sistem Informasi Perpust
 ![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232135.png)
 ![Tampilan Dashboard perpusN](assets_style/image/Screenshot%202026-06-22%20232149.png)
 
-Aplikasi perpustakaan ini tidak hanya sekadar tempat mencatat buku. Pada bagian dashboard utama, sistemnya sudah dihiasi dan dilengkapi dengan berbagai fitur fungsional serta interaktif, antara lain:
 
-* **✨ Animasi Interaktif:** Transisi halus pada halaman login dan UI untuk pengalaman yang tidak membosankan, karena animasi pada website adalah SOP wajib di project Nevanda.
-* **🎮 Permainan Kuis:** Fitur interaktif untuk menyegarkan suasana perpustakaan.
-* **👥 Data Pengguna:** Manajemen data anggota perpustakaan dan petugas.
-* **📚 Data Buku:** Katalogisasi dan pemantauan ketersediaan stok buku.
-* **🔄 Peminjaman & Pengembalian:** Pencatatan sirkulasi keluar-masuk buku.
-* **💰 Kalkulasi Denda:** Penghitungan otomatis untuk keterlambatan pengembalian buku.
-* Serta berbagai fitur penunjang operasional perpustakaan lainnya.
+## ❓ Kenapa Websitenya Nggak Bisa Langsung Dipakai, Pak?
 
----
+Saya mau jujur dari lubuk hati yang paling dalam: **karena saya belum agak malas buat sewa hosting database sendiri Pak. Hehehe, ujung-ujungnya duit lagi, duit lagi, dompet mahasiswa menangis.** 😭
 
-## ❓ Kenapa Web Ini Tidak Bisa Langsung Dipakai?
+Jadi begini Pak Ija, aplikasi ini kan dibangun pakai PHP (CodeIgniter 3) dan database MySQL yang butuh server hidup. Sementara GitHub Pages ini modal numpang gratisan untuk halaman statis HTML,CSS,JS aja. Makanya, halaman yang lagi Bapak buka sekarang ini cuma bisa jadi pameran visual alias pajangan saja.
 
-Jawabannya sangat jujur: **karena saya malas menyewa hosting database, karena itu memerlukan uang, hadeeh duit lagi duit lagi.** 
-
-Aplikasi ini dibangun menggunakan PHP (CodeIgniter 3) dan database MySQL. Karena GitHub Pages hanya bisa menjalankan halaman statis (HTML/CSS/JS), maka halaman web yang sedang Bapak Ija buka ini hanyalah sekadar pajangan. 
-
-Kalau Pak Ija ingin mencoba menjalankan aplikasi ini secara utuh beserta seluruh fiturnya, silakan *clone* atau unduh *source code* repositori ini, lalu jalankan secara lokal di komputer Bapak menggunakan **XAMPP**.
+Tapi tenang, kalau Pak Ija atau temen temen penasaran banget pengen coba fiturnya secara utuh, kodenya open source kok. langsung clone bae, terus running lokal di laptop masing-masing pake XAMPP. Dijamin lancar jaya!
 
 ---
 
-*Catatan Kredit: Source code dasar dikembangkan oleh Nevanda.*
+*Catatan: Source code dasar dikembangkan dan dimodifikasi oleh Nevanda dengan penuh kegembiraan.*
