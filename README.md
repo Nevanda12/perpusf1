@@ -6,7 +6,7 @@ Halo! Selamat datang di repositori **perpusf1**, sebuah Sistem Informasi Perpust
 
 ## 🔗 Tautan Terkait
 * **🌐 Website Portofolio Nevanda:** [Kunjungi Portofolio Nevanda](https://nevanda12.github.io/porto-mobile/)
-* **📂 Repositori GitHub Proyek:** [github.com/nevanda12/perpusN](https://github.com/Nevanda12/perpusf1)
+* **📂 Repositori GitHub Proyek:** [github.com/nevanda12/perpusf1](https://github.com/Nevanda12/perpusf1)
 
 ---
 
