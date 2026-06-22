@@ -1,4 +1,4 @@
-# perpusN — Sistem Informasi Perpustakaan
+# perpusf1 — Sistem Informasi Perpustakaan
 
 Halo! Selamat datang di repositori **perpusf1**, sebuah Sistem Informasi Perpustakaan berbasis web yang dikembangkan dan didokumentasikan oleh Nevanda.
 
