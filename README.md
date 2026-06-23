@@ -1,17 +1,16 @@
 # perpusf1 — Sistem Informasi Perpustakaan
-
-Halo Pak Ija dan teman-teman! Selamat datang di repositori **perpusf1**. Ini adalah proyek Sistem Informasi Perpustakaan berbasis web yang saya garap dan dokumentasikan dengan sepenuh hati.
+Haihai Pak Ija dan teman teman. Selamat datang di repositori **perpusf1**. Ini adalah proyek Sistem Informasi Perpustakaan berbasis web yang saya garap dan dokumentasikan dengan sepenuh hati, karna project ini penebusan matkul pemrograman visual 1.
 
 ---
 
 ## 🔗 Link Penting
 * **🌐 Nyasar ke Portofolio Saya?** Boleh mampir ke sini dulu, Pak: [Kunjungi Portofolio Nevanda](https://nevanda12.github.io/porto-mobile/)
-* **📂 kalau teman teman mau clone project Ini:** [github.com/nevanda12/perpusf1](https://github.com/Nevanda12/perpusf1)
+* **📂 Ini dia repository projectnya:** [github.com/nevanda12/perpusf1](https://github.com/Nevanda12/perpusf1)
 
 ---
 Jujur Pak, aplikasi perpustakaan ini dibuat bukan cuma buat pajangan data kaku yang membosankan. Saya tipe orang yang paling anti lihat website kelihatan datar. Makanya, setiap sudut di sistem ini saya sentuh dengan detail interaktif, terutama di bagian dashboard utamanya:
 
-* **✨ Animasi yang Memanjakan Mata:** Ini sudah jadi SOP wajib di setiap proyek buatan Nevanda Pak. Mulai dari halaman login sampai menu di dalamnya dibikin sehalus mungkin biar estetik, manjain mata, tapi tetep kelihatan profesional.
+* **✨ Animasi yang Memanjakan Mata:** Ini sudah jadi SOP wajib di setiap proyek buatan Nevanda Pak, harus ada nimasi yang bergerak dalam web. Mulai dari halaman login sampai menu di dalamnya dibikin sehalus mungkin biar estetik, manjain mata, tapi tetep kelihatan profesional.
 * **🎮 Kuis Seru-seruan:** Biar pengunjung perpus nggak spaneng atau bosan, ada fitur kuis interaktif buat hiburan ringan.
 * **👥 Kelola Data Pengguna:** Urusan manajemen akun petugas sama anggota perpus, semuanya sudah terstruktur rapi.
 * **📚 Stok Buku:** Katalogisasi data buku biar pemantauan ketersediaan stoknya nggak ada yang selip.
@@ -34,8 +33,8 @@ Saya mau jujur dari lubuk hati yang paling dalam: **karena saya agak malas buat 
 
 Jadi begini Pak Ija, aplikasi ini kan dibangun pakai PHP (CodeIgniter 3) dan database MySQL yang butuh server hidup. Sementara GitHub Pages ini modal numpang gratisan untuk halaman statis HTML,CSS,JS aja. Makanya, halaman yang lagi Bapak buka sekarang ini cuma bisa jadi pameran visual alias pajangan saja.
 
-Tapi tenang, kalau Pak Ija atau temen temen penasaran banget pengen coba fiturnya, kodenya open source tuh. langsung clone bae, terus running lokal di laptop masing-masing pake XAMPP. Dijamin lancar jaya!
+Tapi tenang, kalau Pak Ija atau temen temen penasaran banget pengen coba fiturnya, kodenya open source tuh. langsung clone bae, terus running lokal di laptop masing-masing pake XAMPP. Dijamin lancar jaya asal tau caranya sih.(kalau belum bisa tanya aja sama Nevanda, gk mungkin dong developernya gk faham jalanin project sendiri)
 
 ---
 
-*Catatan: Source code dasar dikembangkan dan dimodifikasi oleh Nevanda dengan penuh kegembiraan.*
+*Catatan: Source code dikembangkan dan dimodifikasi oleh Nevanda dengan penuh kegembiraan.*
