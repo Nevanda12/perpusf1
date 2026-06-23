@@ -35,11 +35,11 @@ Jadi begini Pak Ija, aplikasi ini kan dibangun pakai PHP (CodeIgniter 3) dan dat
 
 Tapi tenang, kalau Pak Ija atau temen temen penasaran banget pengen coba fiturnya, kodenya open source tuh. langsung clone bae, terus running lokal di laptop masing-masing pake XAMPP. Dijamin lancar jaya asal tau caranya sih.(kalau belum bisa tanya aja sama Nevanda, gk mungkin dong developernya gk faham jalanin project sendiri)
 
-* **Oh iya misal mau coba login jadi Admin
+Oh iya misal mau coba login jadi Admin
 * **User : Proro,
 * **Sandi: 123
 
-* **Kalau mau jadi anggota aja(anggota kebanyakan fiturnya terbatas ya banyak yang tidak bisa dipakai karena haknya hanya hampir semua cuma mengecek aja)
+Kalau mau jadi anggota aja(anggota kebanyakan fiturnya terbatas ya banyak yang tidak bisa dipakai karena haknya hanya hampir semua cuma mengecek aja)
 * **User : Gebze Albino,
 * **Sandi: 123
 
